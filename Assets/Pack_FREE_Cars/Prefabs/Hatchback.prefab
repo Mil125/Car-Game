@@ -25,13 +25,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1419998860113037823}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.85793984, y: 0.31174156, z: 1.2822841}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1807256897596988560}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 2
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7778321861281416337
 MeshFilter:
@@ -58,9 +65,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -111,13 +121,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5115735495455736681}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.8510741, y: 0.3117416, z: -1.0553046}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1807256897596988560}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 0
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &1394426474528705036
 MeshFilter:
@@ -144,9 +161,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -197,13 +217,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6589659554022336100}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.84245384, y: 0.31174156, z: 1.282287}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1807256897596988560}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 3
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3073333946089902089
 MeshFilter:
@@ -230,9 +257,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -283,13 +313,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7606265029820296956}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.8351041, y: 0.3117416, z: -1.0553018}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1807256897596988560}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 1
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8372968331035156047
 MeshFilter:
@@ -316,9 +353,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -355,9 +395,12 @@ GameObject:
   - component: {fileID: 1807256897596988560}
   - component: {fileID: 8080626210629279878}
   - component: {fileID: 4080312293609642034}
+<<<<<<< HEAD
   - component: {fileID: -2749474502052388996}
   - component: {fileID: -8368999441680645076}
   - component: {fileID: -338459490667074058}
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_Layer: 0
   m_Name: Hatchback
   m_TagString: Untagged
@@ -372,10 +415,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7769690492283750692}
+<<<<<<< HEAD
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3179817962060451224}
@@ -383,6 +432,10 @@ Transform:
   - {fileID: 6935352750235201749}
   - {fileID: 1907700678287040002}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 0
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8080626210629279878
 MeshFilter:
@@ -409,9 +462,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -438,6 +494,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 --- !u!65 &-2749474502052388996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -499,3 +556,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageAmount: 20
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb

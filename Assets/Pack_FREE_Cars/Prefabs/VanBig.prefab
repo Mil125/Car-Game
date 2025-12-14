@@ -11,9 +11,12 @@ GameObject:
   - component: {fileID: 8355181012312078581}
   - component: {fileID: 6641931595024723625}
   - component: {fileID: 3530365781972075139}
+<<<<<<< HEAD
   - component: {fileID: 924630396641223146}
   - component: {fileID: -8340808167950508714}
   - component: {fileID: -1125330137627255866}
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_Layer: 0
   m_Name: VanBig
   m_TagString: Untagged
@@ -65,9 +68,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -94,6 +100,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 --- !u!65 &924630396641223146
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -155,6 +162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageAmount: 20
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
 --- !u!1 &2889485263390345767
 GameObject:
   m_ObjectHideFlags: 0
@@ -213,9 +222,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -299,9 +311,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -385,9 +400,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -471,9 +489,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:

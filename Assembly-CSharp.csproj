@@ -42,11 +42,16 @@
     <UnityVersion>6000.0.58f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Analyzer Include="C:\Users\mpolr\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.2.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.58f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.58f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.58f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\FuelBar.cs" />
     <Compile Include="Assets\Scripts\Damager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
@@ -133,6 +138,17 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+=======
+    <Compile Include="Assets\Scripts\ObstacleSpawner.cs" />
+    <Compile Include="Assets\Scripts\AnimateCar.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\KajamansRoads\FileNamesDescription.txt" />
+    <None Include="Assets\Obstacles\Free Fire VFX\Shaders\SH_Vefects_VFX_SRP_Particles_Erosion_01.shader" />
+    <None Include="Assets\KajamansRoads\Free\ReadMe.txt" />
+    <None Include="Assets\Obstacles\Free Fire VFX\Shaders\SH_Vefects_VFX_SRP_Heat_Haze_01.shader" />
+    <None Include="Assets\Obstacles\Free Fire VFX\Shaders\SH_Vefects_VFX_SRP_Fire_Flames_01.shader" />
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

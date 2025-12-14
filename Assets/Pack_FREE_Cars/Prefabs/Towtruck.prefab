@@ -25,13 +25,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 938263979648159698}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.87, y: 0.32655278, z: -1.938}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1598880563783459702}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 3
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3574892879843105884
 MeshFilter:
@@ -58,9 +65,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -111,13 +121,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428896154806819881}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.876915, y: 0.3265525, z: 1.3706753}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1598880563783459702}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 0
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4874804738026863688
 MeshFilter:
@@ -144,9 +161,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -197,13 +217,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2447565566639454046}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.88, y: 0.3265525, z: -1.938}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1598880563783459702}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 2
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3253380209674594733
 MeshFilter:
@@ -230,9 +257,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -283,13 +313,20 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3570916386208818676}
+<<<<<<< HEAD
   serializedVersion: 2
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.8774338, y: 0.32655278, z: 1.3706789}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1598880563783459702}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 1
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4241363232421292897
 MeshFilter:
@@ -316,9 +353,12 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -354,9 +394,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1598880563783459702}
   - component: {fileID: 598507913756302931}
+<<<<<<< HEAD
   - component: {fileID: 167309342552601694}
   - component: {fileID: -8135934740178883657}
   - component: {fileID: -4218645332775864227}
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_Layer: 0
   m_Name: Towtruck
   m_TagString: Untagged
@@ -371,10 +414,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8924721617483827851}
+<<<<<<< HEAD
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5768708210258110011}
@@ -382,6 +431,10 @@ Transform:
   - {fileID: 7207101300687004963}
   - {fileID: 7265706092388095819}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+=======
+  m_RootOrder: 0
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!137 &598507913756302931
 SkinnedMeshRenderer:
@@ -400,9 +453,12 @@ SkinnedMeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 3
   m_RayTraceProcedural: 0
+<<<<<<< HEAD
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -440,6 +496,7 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0000010728836, y: 1.4504942, z: -0.65684676}
     m_Extent: {x: 1.1972897, y: 1.1995219, z: 2.7851477}
   m_DirtyAABB: 0
+<<<<<<< HEAD
 --- !u!65 &167309342552601694
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -501,3 +558,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageAmount: 20
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb

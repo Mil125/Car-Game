@@ -9,9 +9,12 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+<<<<<<< HEAD
 	"last_search.66F56946" = "persp"
 	"OpenInspectorPreview.66F56946" = "0"
 	"currentGroup.66F56946" = null
+=======
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
 }
 providers = {
 	asset = {

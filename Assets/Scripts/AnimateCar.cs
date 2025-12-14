@@ -1,5 +1,6 @@
 using UnityEngine;
 
+<<<<<<< HEAD
 public class AnimateCar : MonoBehaviour
 {
     public float acceleration = 25f;         // Gas pedal strength
@@ -10,6 +11,18 @@ public class AnimateCar : MonoBehaviour
 
     public float currentSpeed = 0f;
     private Rigidbody rb;
+=======
+public class SimpleCarPhysicsController : MonoBehaviour
+{
+    public float acceleration = 10f;         // Gas pedal strength
+    public float braking = 15f;              // Brake strength (S key)
+    public float maxSpeed = 100f;             // Max forward speed
+    public float turnSpeed = 90f;            // Steering rotation speed
+    public float downforce = 50f;            // Keeps car on the road at high speeds
+
+    private Rigidbody rb;
+    private float currentSpeed = 0f;
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
 
     void Awake()
     {
@@ -60,5 +73,14 @@ public class AnimateCar : MonoBehaviour
 
         Vector3 forwardMove = transform.forward * currentSpeed * Time.fixedDeltaTime;
         rb.MovePosition(rb.position + forwardMove);
+<<<<<<< HEAD
+=======
+
+        // ===============================
+        //      ANTI-JUMP STABILIZATION
+        // ===============================
+
+        rb.AddForce(-transform.up * downforce, ForceMode.Acceleration);
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
     }
 }

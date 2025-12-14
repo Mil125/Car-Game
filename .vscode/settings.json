@@ -60,6 +60,7 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
+<<<<<<< HEAD
         "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
@@ -67,4 +68,13 @@
         "*.sln": "*.csproj"
     },
     "dotnet.defaultSolution": "Car-Game.sln"
+=======
+        "*.unity": "yaml",
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.sln": "*.csproj",
+    },
+    "dotnet.defaultSolution": "Car Game.sln"
+>>>>>>> c4ece5b6574bbd835838267759069054ec7eabeb
 }
